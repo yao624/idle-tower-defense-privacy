@@ -1,0 +1,23 @@
+rustore.html
+  s_870b900529baf2::t_a3bb7fc0c19aca 1-150
+index.html
+  s_870b900529baf2::t_a3bb7fc0c19aca 98-99
+DESIGN.md
+  s_870b900529baf2::t_367ffae013b845 1-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8c7f52089c4fe47bb113ac33a0c7c9fa68ddb550",
+  "prompts": {},
+  "sessions": {
+    "s_870b900529baf2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1b044-9428-7e42-8c1c-c98ddcf17c88",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "lizhichao"
+    }
+  }
+}
