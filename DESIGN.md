@@ -33,3 +33,7 @@ Desktop uses a 220px contents column beside a 73ch reading column. At 850px the 
 ## Verification scope
 
 Review the real Russian and English copy at wide desktop, narrow desktop and mobile widths. Check keyboard focus, section anchors, long identifiers, zoom and horizontal overflow. This file records a local adaptation from the existing HTML/CSS; it does not claim a Stitch review.
+
+## 2026-11-10 scope update
+
+The RuStore notice leads with code67 optional-ad scope and preserves the earlier code63 notice at rustore-code63.html. Existing reading layout, palette and typography remain unchanged. Russian and English paragraphs remain paired. No Stitch service was used.
